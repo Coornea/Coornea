@@ -29,10 +29,9 @@ export default function AboutMe(props) {
           <div className="w-full md:w-7/12 space-y-4 sm:text-base text-sm ">
             <div className="font-Header ">
               <span className="text-gray-400  tracking-wide">
-                Hello! My name is Abdellatif and I enjoy solving problems and creating codes that live on the internet.
-                My interest in computer science started back in 2009 when I decided to try learning{" "}
-                <span className="text-AAsecondary">Ethical Hacking</span> using BackTrack OS — it turns out programming
-                skills are essential to achieve that, my journey with programming started from that time!
+                Hello! My name is Wahyu and I enjoy solving problems and creating codes that live on the internet.
+                My interest in {" "}
+                <span className="text-AAsecondary">Programming World</span> start from my Vocational High School on Computer Specialist, my love with programming started from that time!
               </span>
             </div>
             <div className="font-Header tracking-wide">

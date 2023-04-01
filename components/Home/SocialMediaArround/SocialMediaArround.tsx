@@ -32,9 +32,9 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
         <div className="flex flex-col space-y-8 justify-center items-center">
           <div className="flex flex-col justify-center items-center space-y-5">
             {/* Github Icon */}
-            <IconClickableWithAnimation Icon={GithubIcon} href={"https://github.com/hktitof"} />
+            <IconClickableWithAnimation Icon={GithubIcon} href={"https://github.com/Coornea"} />
             {/* Linkedin icon */}
-            <IconClickableWithAnimation Icon={LinkedinIcon} href={"https://www.linkedin.com/in/abdellatif-anaflous/"} />
+            <IconClickableWithAnimation Icon={LinkedinIcon} href={"https://www.linkedin.com/in/why-kr/"} />
             {/* Instagram Icon */}
             <IconClickableWithAnimation Icon={InstagramIcon} href={"https://www.instagram.com/titof_abdo/"} />
             {/* Youtube Icon */}
@@ -62,9 +62,9 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
             }}
             className=""
           >
-            <a href="mailto:abdellatif@anaflous.com" target={"_blank"} rel="noreferrer">
+            <a href="mailto:coornea@coornea.my.id" target={"_blank"} rel="noreferrer">
               <span className=" font-Header tracking-wide text-gray-400 hover:text-AAsecondary hover:cursor-pointer">
-                abdellatif@anaflous.com
+                coornea@coornea.my.id
               </span>
             </a>
           </motion.div>
