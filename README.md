@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Coornea/Coornea.github.io/blob/main/public/OO%20V2p.png" width="100" />
+  <img alt="Logo" src="https://github.com/Coornea/Coornea.github.io/blob/main/public/OO%20V2p.png" width="200" />
 </div>
 <h1 align="center">
   coornea.my.id - v1
