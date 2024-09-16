@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt="Logo" src="https://user-images.githubusercontent.com/62770500/199333052-3cd38b31-7e77-4883-a1ff-a037afcc0492.png" width="100" />
+  <img alt="Logo" src="https://github.com/Coornea/Coornea.github.io/blob/main/public/OO%20V2p.png" width="100" />
 </div>
 <h1 align="center">
-  anaflous.com - v1
+  coornea.my.id - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://anaflous.com" target="_blank">anaflous.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  The first iteration of <a href="https://coornea.my.id" target="_blank">coornea.my.id</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
